@@ -1,0 +1,10 @@
+/home/keetsky/Desktop/darknet/CMakeFiles/darknet.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/geometry_msgs_generate_messages_cpp.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/geometry_msgs_generate_messages_lisp.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/geometry_msgs_generate_messages_py.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/sensor_msgs_generate_messages_cpp.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/sensor_msgs_generate_messages_lisp.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/sensor_msgs_generate_messages_py.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/keetsky/Desktop/darknet/CMakeFiles/std_msgs_generate_messages_py.dir
